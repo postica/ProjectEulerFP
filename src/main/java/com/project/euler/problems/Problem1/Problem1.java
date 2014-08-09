@@ -1,4 +1,4 @@
-package com.project.euler.problems;
+package com.project.euler.problems.Problem1;
 
 public class Problem1 {
     public int run(int n) {
